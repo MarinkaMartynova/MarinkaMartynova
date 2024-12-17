@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
 <p align="left">
   <h2><img width="45" src="https://img.playbook.com/wrZLEISzgaFTQUms-dmarW-mgkTn7mJKneM0OVhx_xk/Z3M6Ly9wbGF5Ym9v/ay1hc3NldHMtcHVi/bGljL2Y5YmQyYWY0/LWJjNTctNGE5NC1h/OTFkLTE1MzBiMWVj/MmNiOA" alt="programming code icon" />
-  Tech Stack:</h2>
+  Languages and Tools:</h2>
 </p>
 
   
