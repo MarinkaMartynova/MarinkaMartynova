@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
   <h3 align="center">
   My name is Marina, I am a beginner frontend developer.<br> 
-  My goal is to make a perfect website/application, for this I constantly study new technologies and languages.<br>
-    And I will not give up until create it!  I just can’t give up.  
+  My goal is to make a perfect website/application, for this I constantly study new technologies and languages.<br>  
   </h3>
 
 <p align="center">
