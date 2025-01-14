@@ -38,9 +38,36 @@ Here are some ideas to get you started:
  <a 
     href="https://code.visualstudio.com/" 
     target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-        alt="VS code" width="35" height="35"
-    /> 
+    <img width="35" src="https://img.icons8.com/nolan/64/visual-studio.png" alt="visual-studio"/>
  </a>  
+<!-- HTML5 -->
+<a 
+    href="https://html.spec.whatwg.org/multipage/" 
+    target="_blank" rel="noreferrer"> 
+    <img width="35" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/>
+ </a>
+<!-- CSS3 -->
+<a 
+    href="https://www.w3.org/TR/CSS/#css" 
+    target="_blank" rel="noreferrer"> 
+    <img width="35" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/>
+ </a>
+<!-- Javascript -->
+<a 
+    href="https://ecma-international.org" 
+    target="_blank" rel="noreferrer"> 
+    <img width="35" src="https://img.icons8.com/nolan/64/javascript-logo.png" alt="javascript-logo"/>
+ </a>
+<!-- Bootstrap -->
+<a 
+    href="https://getbootstrap.ru/docs/5.3/getting-started/introduction/" 
+    target="_blank" rel="noreferrer"> 
+    <img width="35" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/>
+ </a>
+<!-- GitHub -->
+<a 
+    href="https://github.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img width="35" src="https://img.icons8.com/nolan/64/github.png" alt="github"/>
+ </a>
 </p>
